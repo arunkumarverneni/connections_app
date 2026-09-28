@@ -11,4 +11,4 @@ Most people keep their phone ringer on all night "just in case it's urgent" — 
 - 🌗 **Sleep Mode toggle** — turn it on/off manually
 - ⏰ **Custom sleep hours** — set your own start and end time (not hardcoded)
 - 📩 **Auto-SMS on incoming calls** — callers get: *"Hey, I'm asleep right now. Call again if it's urgent, otherwise I'll call you back."*
-- 🔁 **Smart repeat handling** — if the
+  
